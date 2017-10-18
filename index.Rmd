@@ -16,5 +16,7 @@ I like the [about page](about.html)
 
 ### Put pics into the website
 
+The space is captured by NASA.
+
 <img src="./space.png" style="width:50%">
 
