@@ -1,0 +1,7 @@
+---
+title: "10/18/2017 In-class practice"
+author: "Boxuan Li"
+date: "10/18/2017"
+output: html_document
+---
+
